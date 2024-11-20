@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:Yes_No_App_200187/domain/entities/message.dart';
+import 'package:yes_no_app_200187/domain/entities/message.dart';
 
-import 'package:Yes_No_App_200187/persentation/providers/chat_provider.dart';
-import 'package:Yes_No_App_200187/persentation/widgets/chat/other_message_bubble.dart';
-import 'package:Yes_No_App_200187/persentation/widgets/chat/my_message_bubble.dart';
-import 'package:Yes_No_App_200187/persentation/widgets/shared/message_field_box.dart';
+import 'package:yes_no_app_200187/persentation/providers/chat_provider.dart';
+import 'package:yes_no_app_200187/persentation/widgets/chat/other_message_bubble.dart';
+import 'package:yes_no_app_200187/persentation/widgets/chat/my_message_bubble.dart';
+import 'package:yes_no_app_200187/persentation/widgets/shared/message_field_box.dart';
 
 class ChastScreen extends StatelessWidget {
   const ChastScreen({super.key});
