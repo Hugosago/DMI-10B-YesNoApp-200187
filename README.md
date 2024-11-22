@@ -23,10 +23,11 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 <br>
 |No. |Nombre |Potenciador |Estatus |
 |--|--|--|--|
-<h3> Practica 21 </h3>
 |21|Integracion de Widgets|06|⭐Activa|
 |22|Implementacion de UI|07|⭐Activa|
-|23|Implementacion autonoma de mensajes| 10|⭐Activa|
+|23|Implementacion autonoma de mensajes| 10|⭐Activa
+<h3> Practica 21 </h3>
+|
     
 | Captura | Descripción | 
 |:-------------:|:---------------|
