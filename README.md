@@ -20,12 +20,16 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 ## Estructura de las carpetas 
 ![estructura](https://github.com/user-attachments/assets/68d649da-b3ac-406d-8d88-fc7dd431a271)
 
-<br>
 |No. |Nombre |Potenciador |Estatus |
 |--|--|--|--|
 |21|Integracion de Widgets|06|⭐Activa|
 |22|Implementacion de UI|07|⭐Activa|
 |23|Implementacion autonoma de mensajes| 10|⭐Activa
+
+
+<br>
+
+
 <h3> Practica 21 </h3>
 |
     
