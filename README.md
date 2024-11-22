@@ -21,6 +21,8 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 ![estructura](https://github.com/user-attachments/assets/68d649da-b3ac-406d-8d88-fc7dd431a271)
 
 <br>
+|No. |Nombre |Potenciador |Estatus |
+|--|--|--|--|
 <h3> Practica 21 </h3>
 |21|Integracion de Widgets|06|⭐Activa|
 |22|Implementacion de UI|07|⭐Activa|
